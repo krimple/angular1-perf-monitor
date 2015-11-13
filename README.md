@@ -1,6 +1,6 @@
 Inspired by
-[https://gist.github.com/weikinhuang/6b7f11b59d4a08e35f83#file-gistfile1-js](This
-GIST)
+(https://gist.github.com/weikinhuang/6b7f11b59d4a08e35f83#file-gistfile1-js)[This
+GIST].
 
 This script is meant to be pasted into a browser console window to
 gather performance metrics on a running application.
