@@ -24,6 +24,8 @@ will enhance the system. For now, you can use:
   * `enableLog  =false` (default) - stops logging to the log object
   * `getLogData()` - return the array of log results
 
+Plunker available for playing here - http://plnkr.co/edit/qgP1yv?p=preview
+
 This is licensed under the MIT license (see license file). Give me a
 thumbs up by watching or starring the repository if you like the script,
 or feel free to tweet a thank you at `@krimple` or `@ChariotSolution`.
