@@ -4,6 +4,7 @@
 (function(window, console, angular) {
     'use strict';
 
+    // this function came from https://gist.github.com/weikinhuang/6b7f11b59d4a08e35f83#file-gistfile1-js
     angular.element(document).ready(function() {
         var slice = [].slice;
         window.ngWatchCount = function(base) {
@@ -39,6 +40,7 @@
     });
 })(window, window.console, window.angular);
 
+// riff on function above - using it to count scopes
 (function(window, console, angular) {
     'use strict';
     window.ngScopeCount = function() {
@@ -57,6 +59,7 @@
 
 })(window, window.console, window.angular);
 
+// stats function wired to $rootScope
 (function(angular, document, console) {
     'use strict';
     angular.element('document').ready(function() {
